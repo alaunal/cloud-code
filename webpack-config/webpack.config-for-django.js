@@ -1,3 +1,16 @@
+/**
+ *
+ * @author A.kauniyyah <alaunalkauniyyah3@gmail.com>
+ * @copyright 2020 A.kauniyyah | Front-end Web developer
+ *
+ * ________________________________________________________________________________
+ *
+ * webpack.config.js
+ *
+ * The gulp configuration file.
+ *
+ */
+
 const path = require("path");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
